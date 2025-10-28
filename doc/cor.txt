@@ -1,0 +1,2 @@
+#eeeeee - cor do botão ingresso
+#ffffff - fonte
